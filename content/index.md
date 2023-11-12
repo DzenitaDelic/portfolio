@@ -6,6 +6,5 @@ Description: This is our index page.
 Home page
 ==========================
 
-The source for this page is in `content/index.md`.
-
-This is a sample home page written in markdown with some frontmatter defined.
+Lite om mig...
+Bor i Västerås med familj. Vi har precis köpt en gård och ska flytta i början på nästa år. Annars tycker jag om att resa och uppleva nya saker. 
